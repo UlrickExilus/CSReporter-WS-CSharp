@@ -1,0 +1,27 @@
+C:\Users\desarrollo\Documents\Visual Studio 2010\Projects\Pruebas\ClienteEjemploCSReporter\ClienteEjemploCSReporter\bin\Debug\ClienteEjemploCSReporter.exe.config
+C:\Users\desarrollo\Documents\Visual Studio 2010\Projects\Pruebas\ClienteEjemploCSReporter\ClienteEjemploCSReporter\bin\Debug\ClienteEjemploCSReporter.exe
+C:\Users\desarrollo\Documents\Visual Studio 2010\Projects\Pruebas\ClienteEjemploCSReporter\ClienteEjemploCSReporter\bin\Debug\ClienteEjemploCSReporter.pdb
+C:\Users\desarrollo\Documents\Visual Studio 2010\Projects\Pruebas\ClienteEjemploCSReporter\ClienteEjemploCSReporter\bin\Debug\ApiDescargaSAT.dll
+C:\Users\desarrollo\Documents\Visual Studio 2010\Projects\Pruebas\ClienteEjemploCSReporter\ClienteEjemploCSReporter\bin\Debug\Ionic.Zip.dll
+C:\Users\desarrollo\Documents\Visual Studio 2010\Projects\Pruebas\ClienteEjemploCSReporter\ClienteEjemploCSReporter\bin\Debug\ApiDescargaSAT.pdb
+C:\Users\desarrollo\Documents\Visual Studio 2010\Projects\Pruebas\ClienteEjemploCSReporter\ClienteEjemploCSReporter\obj\x86\Debug\ClienteEjemploCSReporter.csprojResolveAssemblyReference.cache
+C:\Users\desarrollo\Documents\Visual Studio 2010\Projects\Pruebas\ClienteEjemploCSReporter\ClienteEjemploCSReporter\obj\x86\Debug\ClienteEjemploCSReporter.FormBackgroundWorker.resources
+C:\Users\desarrollo\Documents\Visual Studio 2010\Projects\Pruebas\ClienteEjemploCSReporter\ClienteEjemploCSReporter\obj\x86\Debug\ClienteEjemploCSReporter.FormConsulta.resources
+C:\Users\desarrollo\Documents\Visual Studio 2010\Projects\Pruebas\ClienteEjemploCSReporter\ClienteEjemploCSReporter\obj\x86\Debug\ClienteEjemploCSReporter.FormMain.resources
+C:\Users\desarrollo\Documents\Visual Studio 2010\Projects\Pruebas\ClienteEjemploCSReporter\ClienteEjemploCSReporter\obj\x86\Debug\ClienteEjemploCSReporter.Properties.Resources.resources
+C:\Users\desarrollo\Documents\Visual Studio 2010\Projects\Pruebas\ClienteEjemploCSReporter\ClienteEjemploCSReporter\obj\x86\Debug\ClienteEjemploCSReporter.csproj.GenerateResource.Cache
+C:\Users\desarrollo\Documents\Visual Studio 2010\Projects\Pruebas\ClienteEjemploCSReporter\ClienteEjemploCSReporter\obj\x86\Debug\ClienteEjemploCSReporter.exe
+C:\Users\desarrollo\Documents\Visual Studio 2010\Projects\Pruebas\ClienteEjemploCSReporter\ClienteEjemploCSReporter\obj\x86\Debug\ClienteEjemploCSReporter.pdb
+C:\Users\desarrollo\Documents\Visual Studio 2010\Projects\Pruebas\ClienteEjemploCSReporter (Con API)\ClienteEjemploCSReporter\ClienteEjemploCSReporter\bin\Debug\ClienteEjemploCSReporter.exe.config
+C:\Users\desarrollo\Documents\Visual Studio 2010\Projects\Pruebas\ClienteEjemploCSReporter (Con API)\ClienteEjemploCSReporter\ClienteEjemploCSReporter\bin\Debug\ClienteEjemploCSReporter.exe
+C:\Users\desarrollo\Documents\Visual Studio 2010\Projects\Pruebas\ClienteEjemploCSReporter (Con API)\ClienteEjemploCSReporter\ClienteEjemploCSReporter\bin\Debug\ClienteEjemploCSReporter.pdb
+C:\Users\desarrollo\Documents\Visual Studio 2010\Projects\Pruebas\ClienteEjemploCSReporter (Con API)\ClienteEjemploCSReporter\ClienteEjemploCSReporter\bin\Debug\ApiDescargaSAT.dll
+C:\Users\desarrollo\Documents\Visual Studio 2010\Projects\Pruebas\ClienteEjemploCSReporter (Con API)\ClienteEjemploCSReporter\ClienteEjemploCSReporter\bin\Debug\Ionic.Zip.dll
+C:\Users\desarrollo\Documents\Visual Studio 2010\Projects\Pruebas\ClienteEjemploCSReporter (Con API)\ClienteEjemploCSReporter\ClienteEjemploCSReporter\obj\x86\Debug\ClienteEjemploCSReporter.csprojResolveAssemblyReference.cache
+C:\Users\desarrollo\Documents\Visual Studio 2010\Projects\Pruebas\ClienteEjemploCSReporter (Con API)\ClienteEjemploCSReporter\ClienteEjemploCSReporter\obj\x86\Debug\ClienteEjemploCSReporter.FormBackgroundWorker.resources
+C:\Users\desarrollo\Documents\Visual Studio 2010\Projects\Pruebas\ClienteEjemploCSReporter (Con API)\ClienteEjemploCSReporter\ClienteEjemploCSReporter\obj\x86\Debug\ClienteEjemploCSReporter.FormConsulta.resources
+C:\Users\desarrollo\Documents\Visual Studio 2010\Projects\Pruebas\ClienteEjemploCSReporter (Con API)\ClienteEjemploCSReporter\ClienteEjemploCSReporter\obj\x86\Debug\ClienteEjemploCSReporter.FormMain.resources
+C:\Users\desarrollo\Documents\Visual Studio 2010\Projects\Pruebas\ClienteEjemploCSReporter (Con API)\ClienteEjemploCSReporter\ClienteEjemploCSReporter\obj\x86\Debug\ClienteEjemploCSReporter.Properties.Resources.resources
+C:\Users\desarrollo\Documents\Visual Studio 2010\Projects\Pruebas\ClienteEjemploCSReporter (Con API)\ClienteEjemploCSReporter\ClienteEjemploCSReporter\obj\x86\Debug\ClienteEjemploCSReporter.csproj.GenerateResource.Cache
+C:\Users\desarrollo\Documents\Visual Studio 2010\Projects\Pruebas\ClienteEjemploCSReporter (Con API)\ClienteEjemploCSReporter\ClienteEjemploCSReporter\obj\x86\Debug\ClienteEjemploCSReporter.exe
+C:\Users\desarrollo\Documents\Visual Studio 2010\Projects\Pruebas\ClienteEjemploCSReporter (Con API)\ClienteEjemploCSReporter\ClienteEjemploCSReporter\obj\x86\Debug\ClienteEjemploCSReporter.pdb
